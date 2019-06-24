@@ -3705,7 +3705,7 @@ var firstText = 'First';
 var lastText = 'Last';
 var urlactivepage = location.href;
 var home_page = "/";
-//<![CDATA[
+
 if (typeof firstText == "undefined") firstText = "First";
 if (typeof lastText == "undefined") lastText = "Last";
 var noPage;
